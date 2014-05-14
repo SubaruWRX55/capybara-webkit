@@ -1,3 +1,5 @@
+test
+
 New for 1.1.1:
 * Lock capybara dependency to < 2.2.0.
 
